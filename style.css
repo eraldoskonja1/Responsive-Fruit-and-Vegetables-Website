@@ -366,7 +366,7 @@ section{
 /*Deal of the day*/
 
 .deal{
-    background: url(../images/deal-bg.jpg);
+    background: url(./images/deal-bg.jpg);
     background-position: center;
     background-size: cover;
     padding-top: 7rem;
@@ -454,7 +454,7 @@ section{
 
 
 .newsletter{
-    background: url(../images/newsletter-bg.jpg);
+    background: url(./images/newsletter-bg.jpg);
     background-size: cover;
     background-position: center;
     text-align: center;
