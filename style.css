@@ -551,6 +551,10 @@ section{
     .header-2{
         font-size: 2rem;
     }
+        console.log("Server has started on 3000.");
+    .product .box-container .box{
+    flex: 1 1 30rem;
+    }
 }
 
 @media(max-width:991px){
